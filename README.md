@@ -12,3 +12,6 @@ different data from the database.
 # F# Method
 ![fsharppic](https://user-images.githubusercontent.com/33674827/117917386-92b01900-b2ae-11eb-8073-6c7ca4247014.PNG)
 
+# C# Method
+![csharppic](https://user-images.githubusercontent.com/33674827/117917500-d86ce180-b2ae-11eb-9c58-cb4eb6d18381.PNG)
+
