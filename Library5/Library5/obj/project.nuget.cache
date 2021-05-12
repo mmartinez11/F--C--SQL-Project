@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "so5pY1Ev1e3e3TPig6l1vbOyz72f7Fr9F2b5BMItlGa2ma9NuD6M9BK4/hXx8cv4DtGhFMz756p+JoaUwkmgUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manny\\Desktop\\Spring 2021\\341\\Projects\\Library5\\Library5\\Library5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manny\\.nuget\\packages\\bouncycastle\\1.8.5\\bouncycastle.1.8.5.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\fsharp.core\\5.0.1\\fsharp.core.5.0.1.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\fsharp.data\\4.1.1\\fsharp.data.4.1.1.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\k4os.compression.lz4.streams\\1.1.11\\k4os.compression.lz4.streams.1.1.11.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\mysql.data\\8.0.24\\mysql.data.8.0.24.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\manny\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

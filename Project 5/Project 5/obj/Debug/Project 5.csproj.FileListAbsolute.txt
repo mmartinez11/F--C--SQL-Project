@@ -1,0 +1,54 @@
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\Project 5.exe.config
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\Project 5.exe
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\Project 5.pdb
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\FSharp.Core.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\FSharp.Data.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\Google.Protobuf.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\MySql.Data.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\System.Buffers.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\System.Memory.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\Zstandard.Net.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\FSharp.Core.xml
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\FSharp.Data.xml
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\Google.Protobuf.pdb
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\Google.Protobuf.xml
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\MySql.Data.xml
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\System.Buffers.xml
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\System.Memory.xml
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\obj\Debug\Project 5.csprojAssemblyReference.cache
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\obj\Debug\Project_5.Form1.resources
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\obj\Debug\Project_5.Properties.Resources.resources
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\obj\Debug\Project 5.csproj.GenerateResource.cache
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\obj\Debug\Project 5.csproj.CoreCompileInputs.cache
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\obj\Debug\Project 5.sourcelink.json
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\obj\Debug\Project 5.csproj.CopyComplete
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\obj\Debug\Project 5.exe
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\obj\Debug\Project 5.pdb
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\Library5.dll
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\Library5.pdb
+C:\Users\manny\Desktop\Spring 2021\341\Projects\Project 5\Project 5\bin\Debug\Library5.xml
