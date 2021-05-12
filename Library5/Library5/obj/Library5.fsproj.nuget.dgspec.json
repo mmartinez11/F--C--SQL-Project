@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\manny\\Desktop\\Spring 2021\\341\\Projects\\Library5\\Library5\\Library5.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\manny\\Desktop\\Spring 2021\\341\\Projects\\Library5\\Library5\\Library5.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manny\\Desktop\\Spring 2021\\341\\Projects\\Library5\\Library5\\Library5.fsproj",
+        "projectName": "Library5",
+        "projectPath": "C:\\Users\\manny\\Desktop\\Spring 2021\\341\\Projects\\Library5\\Library5\\Library5.fsproj",
+        "packagesPath": "C:\\Users\\manny\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manny\\Desktop\\Spring 2021\\341\\Projects\\Library5\\Library5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.1, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Data": {
+              "target": "Package",
+              "version": "[4.1.1, )",
+              "generatePathProperty": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.24, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
