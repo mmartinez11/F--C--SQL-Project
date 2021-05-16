@@ -10,7 +10,7 @@ This project is a Windows Forms Application. The application allows the user to 
 There are twenty requests which are divided by the methods used to provide the information. There is a total of two methods. The first method is 
 the use of an F# library. This library reads data from a specific CSV file, and each request calls an F# function that provides the request
 with its intended information. The second method is the use of a SQL connection. The application will attempt to make a connection to a SQL database.
-If the connection is successfull, each request will trigger a C# function that calls a SQL query, and returns the information returned by the query. 
+If the connection is successful, each request will trigger a C# function that calls a SQL query, and returns the information returned by the query. 
 
 
 # F# Method
